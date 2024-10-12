@@ -23,7 +23,35 @@ In order to implement this solution, I also created an application using MIT App
  Youtube video from the robot: https://youtu.be/F2Ez6jdFKGU
 
 ## Arduino parts required
- 
+- Mecanum wheels: 4
+- Arduino Uno: 1
+- Motor driver shield: 1
+- DC motors: 4
+- HC-06 Bluetooth module: 1
+- Ultrasonic sensor: 1
+- Jumper wires: 10 (Depends if you need more)
+- Battery holder: 1
+- USB cable: 1
+- M3*10mm Screw: 20
+- M3 Nuts: 12
+- M3*16mm (Copper Pillar): 4
+- M1.6*12mm Screw: 4
+- M1.6*12mm Nut: 4
+- Plastic Shim: 4
+- M2*12mm: 2
+- M2 Nut: 2
+- M3*30mm screw: 8
+- Aluminium Block: 4
+- Standoffs: 4
+- Screwdriver: 1
+- Tie-wraps: 3
+- Chassis plates: 2 (1 large and 1 small)
+- Motor brackets: 4
+- 3.7V 18650 lithium batteries: 2
+
+![image](https://github.com/user-attachments/assets/054a8e57-a7c0-49c8-b112-a6a1163c3cbf) ![image](https://github.com/user-attachments/assets/c786a920-6e00-419d-906d-e7ba34c72845)
+
+
 ## Plans for future improvement of the robot
 The robot has the main functionalities, but it can be improved in several aspects:
 - Adding a camera with the aim of minimizing the appearance and enabling an easier way to record the territory around us, processing the recordings and adding greater functionality with the help of machine learning (detection of people, detection of what kind of object it is, etc.)
