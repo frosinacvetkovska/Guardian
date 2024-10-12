@@ -5,7 +5,7 @@
 - Measuring a certain distance using the distance sensor
 - Use of own application which can be upgraded according to the needs of the user
 
-
+# Usage
 This robot aims to help a larger group of people with special needs:
 - People with spinal cord injuries, arthritis who may have certain difficulties in their movement and this robot can provide them with safe movement in the environment
 - People with cognitive impairments such as Alzheimer's disease or dementia who may have difficulty remembering directions or places and the robot provides them with navigation and reminders that would help them in their daily lives.
