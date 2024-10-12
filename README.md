@@ -1,9 +1,10 @@
 # Guardian
-Guardian is a robot assistant for people with special needs that aims to make their daily life easier with a series of functionalities such as:
+**Guardian** is a robot assistant for people with special needs that aims to make their daily life easier with a series of functionalities such as:
 - Real-time image display using a mobile phone
 - Control of the robot's movement using the Bluetooth module
 - Measuring a certain distance using the distance sensor
 - Use of own application which can be upgraded according to the needs of the user
+
 
 This robot aims to help a larger group of people with special needs:
 - People with spinal cord injuries, arthritis who may have certain difficulties in their movement and this robot can provide them with safe movement in the environment
