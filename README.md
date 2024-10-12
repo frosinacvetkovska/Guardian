@@ -5,9 +5,32 @@
 - Measuring a certain distance using the distance sensor
 - Use of own application which can be upgraded according to the needs of the user
 
-# Usage
+## Usage
 This robot aims to help a larger group of people with special needs:
 - People with spinal cord injuries, arthritis who may have certain difficulties in their movement and this robot can provide them with safe movement in the environment
 - People with cognitive impairments such as Alzheimer's disease or dementia who may have difficulty remembering directions or places and the robot provides them with navigation and reminders that would help them in their daily lives.
 - Elderly people who have physical and cognitive challenges and thereby help them with their mobility, connecting with their family members for help or caregivers with a camera that will transmit the speech.
 - Individuals with impaired vision where the robot will be their personal assistant when moving in the environment itself. He will send feedback about the environment and help them avoid the obstacles that are in front of them.
+
+## Mobile application
+In order to implement this solution, I also created an application using MIT App Inventor. The purpose for which I made it was due to the fact that there are almost no mobile applications that display an image and allow the movement of the robot itself. It consists of very simple functionality and these are:
+- Bluetooth and phone connection button
+- Picture box
+- Button to turn off the Bluetooth connection
+- Buttons to move the robot
+**If you want to replicate the project you can download the .apk file for the application from the repository! Keep in mind that the movement controls have to be changed based on the requirements you will put. In order to do that you have to upload the .apk file in MIT App Inventor and change it manually.**
+
+ Youtube video from the robot: https://youtu.be/F2Ez6jdFKGU
+
+## Arduino parts required
+ 
+## Plans for future improvement of the robot
+The robot has the main functionalities, but it can be improved in several aspects:
+- Adding a camera with the aim of minimizing the appearance and enabling an easier way to record the territory around us, processing the recordings and adding greater functionality with the help of machine learning (detection of people, detection of what kind of object it is, etc.)
+- Creation of one application with all the necessary functionalities instead of the current two which are used for navigation and getting a view from the phone in real time. This will reduce the time of assembling the robot when it is necessary to use it, but also with our development of the application it will have an interactive UI that can be easily used by people of different ages.
+- Adding a sound sensor in order to receive a notification about a certain object/person near it.
+- Adding light sensors in order for the robot to work at night or in places where it is dark and we need light for it to move.
+- Adding a GPS sensor in order to know the exact location of the robot. The same location can be displayed on the app using map integration.
+- Implementation of a function for avoiding obstacles and notifying the user with the help of proximity sensors
+
+
